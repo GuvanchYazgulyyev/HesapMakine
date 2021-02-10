@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\C# ders 6\HesapMakine\HesapMakine\bin\Debug\HesapMakine.exe.config
+C:\Users\Dell\source\repos\C# ders 6\HesapMakine\HesapMakine\bin\Debug\HesapMakine.exe
+C:\Users\Dell\source\repos\C# ders 6\HesapMakine\HesapMakine\bin\Debug\HesapMakine.pdb
+C:\Users\Dell\source\repos\C# ders 6\HesapMakine\HesapMakine\obj\Debug\HesapMakine.Form1.resources
+C:\Users\Dell\source\repos\C# ders 6\HesapMakine\HesapMakine\obj\Debug\HesapMakine.Properties.Resources.resources
+C:\Users\Dell\source\repos\C# ders 6\HesapMakine\HesapMakine\obj\Debug\HesapMakine.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C# ders 6\HesapMakine\HesapMakine\obj\Debug\HesapMakine.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C# ders 6\HesapMakine\HesapMakine\obj\Debug\HesapMakine.exe
+C:\Users\Dell\source\repos\C# ders 6\HesapMakine\HesapMakine\obj\Debug\HesapMakine.pdb
+C:\Users\Dell\source\repos\C# ders 6\HesapMakine\HesapMakine\obj\Debug\HesapMakine.csprojAssemblyReference.cache
